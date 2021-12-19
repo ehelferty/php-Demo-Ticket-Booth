@@ -1,0 +1,107 @@
+/*http://localhost/HelfertyEricAsst1/Asst1Main.php */
+h1
+{
+    color: cyan;
+    font-size: 3em;
+    text-align: center;
+    margin-left:auto;
+    margin-right: auto;
+}
+h2
+{
+    font-size: x-large;
+    color:lightslategray;
+    text-align: center;
+}
+.header
+{
+    margin:auto;
+    padding:2em;
+    background-color: #404040;
+}
+
+.alignCenter
+{
+    text-align: center;
+}
+label
+{
+    font-size: 1.2em;
+}
+body
+{
+    font-family: Arial, sans-serif;
+    font-size: 1.2em;
+    background-color: #E4EAF2;
+}
+
+.orderFormContainer
+{
+    margin-left:auto;
+    text-align: center;
+    
+}
+
+table
+{
+    table-layout:fixed;
+    border-collapse: collapse;
+    border-style: solid;
+    margin: auto;
+	margin-bottom:4em;
+}
+
+
+.DataPair
+{
+    margin-top: 1.2em;
+    margin-bottom: 1.2em;
+    margin-left: 0.75em;
+}
+
+.buttonsContainer
+{
+    margin-bottom: 1.2em;
+    padding:1em;
+    margin-left: auto;
+    text-align: center;
+}
+
+input[type=text]
+{
+    font-size: 1.2em;
+}
+input[type=date]
+{
+    font-size: 1.2em;
+}
+input[type=time]
+{
+    font-size: 1.2em;
+}
+input[type=number]
+{
+    font-size: 1.2em;
+}
+input[type=radio]
+{
+    font-size: 1.2em;
+}
+
+
+.footer
+{
+    margin-top: auto;
+    text-align: center;
+    padding:1.5em;
+    background-color:lightblue;
+    margin-left:5em;
+    margin-right:5em;
+}
+
+button
+{
+    margin: 0.75em;
+    border:0;
+    background: center;
+}
